@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  background-color: white;
+  color: rgb(90, 40, 65);
+  margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  flex-direction: row;
+  padding: 15px;
+  background-color: rgb(248, 200, 220);
+}
+
+header h1 {
+  font-size: 42px;
+}
+
+.logo {
+  width: 80px;
+}
+
+.botoes {
+  display: flex;
+  gap: 20px;
+}
+
+.botoes a {
+  text-decoration: none;
+  color: rgb(90, 40, 65);
+  font-weight: bold;
+}
+
+.banner {
+  text-align: center;
+  padding: 20px;
+}
+
+.banner img {
+  width: 500px;
+  max-width: 100%;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.galeria img {
+  width: 300px;
+  max-width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: rgb(248, 200, 220);
+}

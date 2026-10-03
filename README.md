@@ -1,0 +1,3 @@
+O cliente deste repositório é a **Dona Neide**, proprietária da confeitaria familiar **"Bolos da Neide"**.
+
+O objetivo do sistema é gerenciar e organizar as encomendas de bolos da confeitaria, substituindo o antigo controle manual em caderno e papéis soltos por um sistema computadorizado que controle clientes, datas de entrega, status dos pedidos, pagamentos e regras de negócio (como a taxa de urgência de 30%), além de oferecer uma interface acessível com letras grandes e uma paleta de cores predominantemente em **Rosa Bebê e Branco** para facilitar a leitura.
